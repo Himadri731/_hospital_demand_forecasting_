@@ -1,0 +1,1001 @@
+visit_id,patient_id,hospital_code,visit_date,department,free_text_diagnosis,patient_age,gender,consultation_fee,clean_age,age_group,clinical_category,visit_dt,week_start
+OPD-1000001,PAT-171764,PCM,2023-10-02,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",17,F,600,17,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000002,PAT-202087,PCM,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",18-Mar-1980,F,400,43,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000003,PAT-214229,PCM,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,46,F,500,46,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000004,PAT-146003,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",42,M,300,42,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000005,PAT-173148,PCM,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",1934-09-07,M,400,89,Geriatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000006,PAT-160909,PCM,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",68,M,300,68,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000007,PAT-135202,PCM,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,48,M,600,48,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000008,PAT-133305,PCM,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",24,F,400,24,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000009,PAT-121646,PCM,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,20,M,600,20,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000010,PAT-126532,PCM,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",24,F,500,24,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000011,PAT-191255,PCM,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",22,M,300,22,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000012,PAT-116704,PCM,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,18,M,400,18,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000013,PAT-155185,PCM,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",13,M,600,13,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000014,PAT-186704,PCM,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",67,F,600,67,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000015,PAT-139525,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",16-Jan-1966,F,300,57,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000016,PAT-199811,PCM,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,23,F,400,23,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000017,PAT-183363,PCM,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,36,M,500,36,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000018,PAT-207496,PCM,2023-10-02,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",38,F,400,38,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000019,PAT-187795,PCM,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",2003/04/05,M,400,20,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000020,PAT-153315,PCM,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",4,M,300,4,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000021,PAT-168979,PCM,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",65,F,300,65,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000022,PAT-178736,PCM,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",22,F,400,22,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000023,PAT-148505,PCM,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",1970/11/05,M,600,52,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000024,PAT-110814,PCM,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",10,M,300,10,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000025,PAT-159371,PCM,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",57,F,500,57,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000026,PAT-178661,PCM,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",41,M,600,41,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000027,PAT-146608,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",10,M,600,10,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000028,PAT-121905,PCM,2023-10-02,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",2002/08/07,F,500,21,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000029,PAT-134506,PCM,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",37,F,300,37,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000030,PAT-151075,PCM,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,1996-01-20,M,600,27,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000031,PAT-150950,PCM,2023-10-02,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",1975-09-28,F,300,48,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000032,PAT-183569,PCM,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",23,M,300,23,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000033,PAT-134049,PCM,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",84,F,400,84,Geriatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000034,PAT-136795,PCM,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",63,F,500,63,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000035,PAT-125140,PCM,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,79,M,400,79,Geriatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000036,PAT-191216,PCM,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,23,F,500,23,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000037,PAT-144798,PCM,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",02/06/1990,M,600,33,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000038,PAT-206879,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",80,F,400,80,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000039,PAT-151354,PCM,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",49,M,500,49,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000040,PAT-142676,PCM,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",38,M,400,38,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000041,PAT-189213,PCM,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",43,M,300,43,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000042,PAT-132602,PCM,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,20/04/2009,F,400,14,Pediatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000043,PAT-182434,PCM,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",48,F,600,48,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000044,PAT-118637,PCM,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",22/12/1934,M,400,88,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000045,PAT-118729,PCM,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",24,M,400,24,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000046,PAT-100715,PCM,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",43,F,300,43,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000047,PAT-165334,PCM,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",51,M,500,51,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000048,PAT-171888,PCM,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",27-Jun-1987,F,500,36,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000049,PAT-134787,PCM,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,2013-09-23,F,500,10,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000050,PAT-100327,PCM,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",55,M,400,55,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000051,PAT-182649,PCM,2023-10-02,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",45,M,400,45,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000052,PAT-185858,PCM,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",16/08/1983,M,500,40,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000053,PAT-143649,PCM,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",35,F,400,35,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000054,PAT-122074,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",70,M,600,70,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000055,PAT-218276,PCM,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",41,M,600,41,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000056,PAT-198515,PCM,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",32,M,300,32,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000057,PAT-174400,PCM,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",02-Feb-1997,M,400,26,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000058,PAT-162923,PCM,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",11/12/2002,F,500,20,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000059,PAT-167614,PCM,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,40,M,500,40,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000060,PAT-180137,PCM,2023-10-02,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",42,M,500,42,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000061,PAT-110904,PCM,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",36,F,300,36,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000062,PAT-153588,PCM,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,31,M,400,31,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000063,PAT-151079,PCM,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,17-Feb-1995,M,300,28,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000064,PAT-112619,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",02-May-2010,F,300,13,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000065,PAT-156995,PCM,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",32,M,500,32,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000066,PAT-144862,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",19,M,600,19,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000067,PAT-172281,PCM,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",33,M,300,33,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000068,PAT-115717,PCM,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",2010-09-16,M,500,13,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000069,PAT-124452,PCM,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",1995-01-21,M,600,28,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000070,PAT-183866,PCM,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,01/05/1960,M,300,63,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000071,PAT-216312,PCM,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,2005-01-05,M,400,18,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000072,PAT-133219,PCM,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",47,F,300,47,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000073,PAT-130082,PCM,2023-10-02,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",70,M,300,70,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000074,PAT-134261,PCM,2023-10-02,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",75,F,500,75,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000075,PAT-144170,PCM,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",28-Dec-1959,F,500,63,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000076,PAT-112708,PCM,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",12/05/1969,F,300,54,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000077,PAT-147309,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",65,F,300,65,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000078,PAT-152500,PCM,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,8,F,600,8,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000079,PAT-148759,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",55,M,500,55,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000080,PAT-157581,PCM,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",61,M,500,61,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000081,PAT-105572,PCM,2023-10-02,General Medicine,amoebic dysentery with blood in stool and tenesmus,55,F,300,55,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000082,PAT-108989,PCM,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",39,M,500,39,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000083,PAT-153480,PCM,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",36,M,400,36,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000084,PAT-188178,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",32,F,300,32,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000085,PAT-143666,PCM,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",45,F,400,45,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000086,PAT-112631,PCM,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,36,F,600,36,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000087,PAT-190459,PCM,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,10,M,600,10,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000088,PAT-113579,PCM,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",18/05/2003,M,600,20,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000089,PAT-110303,PCM,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",08/07/1991,F,600,32,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000090,PAT-159613,PCM,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",10-Jul-2004,M,500,19,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000091,PAT-152685,PCM,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,22,M,300,22,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000092,PAT-104013,PCM,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",76,M,500,76,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000093,PAT-154174,PCM,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",11/12/1977,M,500,45,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000094,PAT-204863,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",87,M,500,87,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000095,PAT-184933,PCM,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",55,F,300,55,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000096,PAT-183553,PCM,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,48,F,500,48,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000097,PAT-112732,PCM,2023-10-02,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",27,M,300,27,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000098,PAT-196116,PCM,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,21,F,400,21,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000099,PAT-163849,PCM,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",02/07/1996,F,300,27,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000100,PAT-196022,HCH,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",1987/02/10,F,500,36,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000101,PAT-166985,HCH,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",31,M,300,31,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000102,PAT-208435,HCH,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,46,M,300,46,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000103,PAT-104704,HCH,2023-10-02,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",19/04/1998,F,500,25,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000104,PAT-160960,HCH,2023-10-02,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",24/07/1995,F,400,28,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000105,PAT-125215,HCH,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",17/02/2010,M,300,13,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000106,PAT-198413,HCH,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",26/09/2004,F,400,19,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000107,PAT-204052,HCH,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",17,M,600,17,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000108,PAT-140958,HCH,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",47,F,300,47,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000109,PAT-104117,HCH,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,8,F,300,8,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000110,PAT-190103,HCH,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",27/02/2016,F,300,7,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000111,PAT-144409,HCH,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,25,M,400,25,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000112,PAT-196321,HCH,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",08/03/1987,F,300,36,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000113,PAT-146592,HCH,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",12-Jul-1969,M,600,54,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000114,PAT-126538,HCH,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,1977-08-17,F,600,46,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000115,PAT-216781,HCH,2023-10-02,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",17,M,300,17,Pediatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000116,PAT-158249,HCH,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",47,M,400,47,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000117,PAT-160458,HCH,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",16,F,300,16,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000118,PAT-129095,HCH,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,28,F,500,28,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000119,PAT-216733,HCH,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",72,F,600,72,Geriatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000120,PAT-136411,HCH,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",60,F,500,60,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000121,PAT-211020,HCH,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,14,M,300,14,Pediatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000122,PAT-149101,HCH,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",50,F,300,50,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000123,PAT-144003,HCH,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,5,F,500,5,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000124,PAT-204399,HCH,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",15,F,300,15,Pediatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000125,PAT-202007,HCH,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",46,M,500,46,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000126,PAT-218601,HCH,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",13,F,600,13,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000127,PAT-101078,HCH,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",05-Nov-1977,F,300,45,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000128,PAT-130876,HCH,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,38,M,500,38,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000129,PAT-216452,HCH,2023-10-02,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",28,F,300,28,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000130,PAT-175937,HCH,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,1979/05/10,M,300,44,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000131,PAT-115213,HCH,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,19,F,500,19,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000132,PAT-125892,HCH,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",92,F,400,92,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000133,PAT-152548,HCH,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",62,M,500,62,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000134,PAT-185920,HCH,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",92,F,500,92,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000135,PAT-212506,HCH,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",32,M,400,32,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000136,PAT-189757,HCH,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,27,F,300,27,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000137,PAT-172171,HCH,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",40,M,300,40,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000138,PAT-215493,HCH,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",38,M,400,38,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000139,PAT-127288,HCH,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",1993/07/08,M,400,30,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000140,PAT-134185,HCH,2023-10-02,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",44,F,400,44,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000141,PAT-119420,HCH,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,92,M,500,92,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000142,PAT-217258,HCH,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",2007-09-10,M,500,16,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000143,PAT-211488,HCH,2023-10-02,General Medicine,amoebic dysentery with blood in stool and tenesmus,30,F,400,30,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000144,PAT-197067,HCH,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",35,M,500,35,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000145,PAT-132643,HCH,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",37,F,600,37,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000146,PAT-172673,HCH,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",29,F,300,29,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000147,PAT-106355,HCH,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,64,F,500,64,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000148,PAT-101120,HCH,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",52,F,400,52,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000149,PAT-111796,HCH,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,2012/02/24,F,300,11,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000150,PAT-180350,HCH,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",72,M,500,72,Geriatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000151,PAT-176699,HCH,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,54,F,400,54,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000152,PAT-195771,HCH,2023-10-02,General Medicine,amoebic dysentery with blood in stool and tenesmus,60,M,600,60,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000153,PAT-125803,HCH,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,10,F,600,10,Pediatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000154,PAT-150158,HCH,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",46,M,300,46,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000155,PAT-154305,HCH,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,01/10/2013,F,300,10,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000156,PAT-171764,HCH,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",17,F,300,17,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000157,PAT-119707,HCH,2023-10-02,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",03-Apr-1973,F,500,50,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000158,PAT-132267,HCH,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,57,M,500,57,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000159,PAT-188048,HCH,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",13/02/1952,F,300,71,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000160,PAT-128233,HCH,2023-10-02,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",27,F,500,27,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000161,PAT-207402,HCH,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",34,M,500,34,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000162,PAT-200328,HCH,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,14,M,300,14,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000163,PAT-169118,HCH,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",23/10/1997,F,400,25,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000164,PAT-204436,HCH,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",92,M,400,92,Geriatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000165,PAT-127544,HCH,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",40,F,300,40,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000166,PAT-122360,HCH,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",53,F,600,53,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000167,PAT-107826,HCH,2023-10-02,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",51,F,600,51,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000168,PAT-155942,HCH,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",32,F,500,32,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000169,PAT-129872,HCH,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,76,F,300,76,Geriatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000170,PAT-164222,KFC,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",22,F,500,22,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000171,PAT-214604,KFC,2023-10-02,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",64,F,400,64,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000172,PAT-112852,KFC,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,42,M,400,42,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000173,PAT-183150,KFC,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",12,F,600,12,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000174,PAT-164785,KFC,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",20,F,300,20,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000175,PAT-168482,KFC,2023-10-02,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",9,M,600,9,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000176,PAT-109445,KFC,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",17-Apr-2002,F,500,21,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000177,PAT-216104,KFC,2023-10-02,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",47,F,600,47,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000178,PAT-171564,KFC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,27,M,300,27,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000179,PAT-213499,KFC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",1977/12/20,F,400,45,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000180,PAT-148125,KFC,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",67,F,500,67,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000181,PAT-212952,KFC,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",2016-08-23,F,400,7,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000182,PAT-125421,KFC,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",41,M,500,41,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000183,PAT-213103,KFC,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",22,M,400,22,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000184,PAT-103079,KFC,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",48,F,600,48,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000185,PAT-155145,KFC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",8,M,300,8,Pediatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000186,PAT-186964,KFC,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",1992-10-09,M,500,30,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000187,PAT-101234,KFC,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",43,M,600,43,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000188,PAT-131576,KFC,2023-10-02,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",25-Feb-1985,F,600,38,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000189,PAT-206545,KFC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,1982/01/26,M,300,41,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000190,PAT-216497,KFC,2023-10-02,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",42,F,600,42,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000191,PAT-160882,KFC,2023-10-02,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",09-Oct-1984,F,400,38,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000192,PAT-121644,KFC,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",03-Jan-2015,F,500,8,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000193,PAT-161423,KFC,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,36,F,300,36,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000194,PAT-149792,KFC,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",26-Dec-1996,F,400,26,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000195,PAT-133458,KFC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,06/12/2016,F,600,6,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000196,PAT-108310,KFC,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",65,F,300,65,Geriatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000197,PAT-204217,KFC,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",25,M,300,25,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000198,PAT-195886,KFC,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",20/03/1975,F,300,48,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000199,PAT-154337,KFC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",15,M,500,15,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000200,PAT-209942,KFC,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",23,M,300,23,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000201,PAT-211072,KFC,2023-10-02,General Medicine,amoebic dysentery with blood in stool and tenesmus,23,F,300,23,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000202,PAT-138128,KFC,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",45,M,600,45,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000203,PAT-112301,KFC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",03/06/2002,F,600,21,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000204,PAT-217702,KFC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",22,M,500,22,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000205,PAT-151311,KFC,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",44,F,300,44,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000206,PAT-127776,KFC,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",17,F,300,17,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000207,PAT-123040,KFC,2023-10-02,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",21,M,500,21,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000208,PAT-113289,KFC,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",37,M,400,37,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000209,PAT-204126,KFC,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",25,M,500,25,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000210,PAT-176300,KFC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",45,F,600,45,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000211,PAT-178926,KFC,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",1968/03/16,F,400,55,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000212,PAT-161464,KFC,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,39,M,400,39,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000213,PAT-184256,KFC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",06/09/1963,M,500,60,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000214,PAT-183312,KFC,2023-10-02,Pediatrics,pediatric febrile convulsion with acute otitis media,06/02/2001,M,400,22,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000215,PAT-176030,KFC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",21-Nov-2013,F,400,9,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000216,PAT-185032,KFC,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",21/01/1990,F,400,33,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000217,PAT-159270,KFC,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",74,M,600,74,Geriatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000218,PAT-103817,KFC,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,05/01/2010,F,500,13,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000219,PAT-122633,KFC,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,45,F,600,45,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000220,PAT-138781,KFC,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",39,F,300,39,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000221,PAT-170707,KFC,2023-10-02,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",25,F,600,25,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000222,PAT-162498,KFC,2023-10-02,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",08-Aug-1955,M,300,68,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000223,PAT-160083,KFC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",13/07/1959,M,600,64,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000224,PAT-128596,KFC,2023-10-02,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",23,F,500,23,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000225,PAT-101342,KFC,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",2008-03-15,M,400,15,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000226,PAT-198987,KFC,2023-10-02,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",88,F,500,88,Geriatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000227,PAT-128965,KFC,2023-10-02,General Medicine,allergic rhinitis with seasonal asthma flare-up,42,F,500,42,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000228,PAT-113235,PMC,2023-10-02,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,11,F,400,11,Pediatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000229,PAT-100376,PMC,2023-10-02,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",29,M,500,29,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000230,PAT-125053,PMC,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",32,M,400,32,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000231,PAT-185695,PMC,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",77,M,400,77,Geriatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000232,PAT-183193,PMC,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",23,F,600,23,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000233,PAT-169936,PMC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",26,M,600,26,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000234,PAT-122729,PMC,2023-10-02,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",11,F,500,11,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000235,PAT-216351,PMC,2023-10-02,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",21,M,400,21,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000236,PAT-165197,PMC,2023-10-02,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",27,F,600,27,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000237,PAT-195529,PMC,2023-10-02,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",28/11/1987,F,600,35,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000238,PAT-125145,PMC,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",18,M,600,18,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000239,PAT-157901,PMC,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,2007-06-20,F,300,16,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000240,PAT-170516,PMC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",54,F,600,54,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000241,PAT-174497,PMC,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,20/10/2005,F,300,17,Pediatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000242,PAT-201903,PMC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,38,F,500,38,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000243,PAT-201707,PMC,2023-10-02,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,2001/10/02,F,400,22,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000244,PAT-141828,PMC,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",15,M,600,15,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000245,PAT-140384,PMC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,27/08/1954,F,600,69,Geriatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000246,PAT-193064,PMC,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",27,F,500,27,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000247,PAT-179661,PMC,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",2006-02-16,M,500,17,Pediatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000248,PAT-115928,PMC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,41,M,600,41,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000249,PAT-175866,PMC,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",14,F,600,14,Pediatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000250,PAT-107151,PMC,2023-10-02,General Medicine,"acute gastritis, severe epigastric pain and heartburn",29,F,400,29,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000251,PAT-102616,PMC,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,67,F,600,67,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000252,PAT-169386,PMC,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",92,M,300,92,Geriatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000253,PAT-168708,PMC,2023-10-02,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",28,F,300,28,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000254,PAT-177544,PMC,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",18,M,400,18,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000255,PAT-116708,PMC,2023-10-02,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",14,M,600,14,Pediatric,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000256,PAT-106869,PMC,2023-10-02,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",2006-11-15,M,500,16,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000257,PAT-189229,PMC,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",1959-07-04,F,500,64,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000258,PAT-127005,PMC,2023-10-02,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",30,F,300,30,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000259,PAT-167047,PMC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",5,F,400,5,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000260,PAT-168296,PMC,2023-10-02,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",8,F,300,8,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000261,PAT-105355,PMC,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",43,M,300,43,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000262,PAT-113067,PMC,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",33,F,600,33,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000263,PAT-160568,PMC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,22,M,500,22,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000264,PAT-174677,PMC,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",51,M,500,51,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000265,PAT-126670,PMC,2023-10-02,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",85,F,400,85,Geriatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000266,PAT-196132,PMC,2023-10-02,Pediatrics,"routine growth monitoring, mild nutritional anemia",29,F,500,29,Adult,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000267,PAT-206985,PMC,2023-10-02,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",8,F,500,8,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000268,PAT-173249,PMC,2023-10-02,General Medicine,"acute viral fever, suspected dengue with warning signs",22,M,600,22,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000269,PAT-205368,PMC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",23,M,400,23,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000270,PAT-210481,PMC,2023-10-02,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",28-Aug-1969,F,400,54,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000271,PAT-109570,PMC,2023-10-02,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",18/02/1995,M,600,28,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000272,PAT-192436,PMC,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,59,F,300,59,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000273,PAT-213519,PMC,2023-10-02,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",92,M,400,92,Geriatric,Maternal_Pediatric,2023-10-02,2023-10-02
+OPD-1000274,PAT-203430,PMC,2023-10-02,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",67,F,500,67,Geriatric,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000275,PAT-168357,PMC,2023-10-02,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",38,F,500,38,Adult,Chronic_Cardiometabolic,2023-10-02,2023-10-02
+OPD-1000276,PAT-139353,PMC,2023-10-02,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,41,F,600,41,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000277,PAT-163680,PMC,2023-10-02,General Medicine,amoebic dysentery with blood in stool and tenesmus,29,F,600,29,Adult,Gastrointestinal,2023-10-02,2023-10-02
+OPD-1000278,PAT-178049,PMC,2023-10-02,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",34,M,400,34,Adult,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000279,PAT-164538,PMC,2023-10-02,Orthopedics,"abscess right gluteal region, incision and drainage needed",46,F,300,46,Adult,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000280,PAT-167807,PMC,2023-10-02,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",15,M,600,15,Pediatric,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000281,PAT-139367,PMC,2023-10-02,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",16,F,400,16,Pediatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000282,PAT-196764,PMC,2023-10-02,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,92,M,500,92,Geriatric,General_Trauma_Surgical,2023-10-02,2023-10-02
+OPD-1000283,PAT-110381,PMC,2023-10-02,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",14,F,300,14,Pediatric,Dengue_Vector,2023-10-02,2023-10-02
+OPD-1000284,PAT-210265,PMC,2023-10-02,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,36,M,500,36,Adult,Acute_Respiratory,2023-10-02,2023-10-02
+OPD-1000285,PAT-145106,PCM,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",21,M,400,21,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000286,PAT-191992,PCM,2023-10-03,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",10/10/1957,M,300,65,Geriatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000287,PAT-219392,PCM,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",20,M,400,20,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000288,PAT-159169,PCM,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",25,F,600,25,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000289,PAT-198066,PCM,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,13/07/1988,F,500,35,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000290,PAT-190438,PCM,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,41,F,300,41,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000291,PAT-149529,PCM,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,43,F,400,43,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000292,PAT-144096,PCM,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",1996/03/08,F,300,27,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000293,PAT-171686,PCM,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",23-Oct-2001,F,500,21,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000294,PAT-156969,PCM,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",2000/04/05,M,300,23,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000295,PAT-106090,PCM,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,15,M,500,15,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000296,PAT-125404,PCM,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",2007-04-01,F,400,16,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000297,PAT-118740,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,55,M,300,55,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000298,PAT-147353,PCM,2023-10-03,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,37,F,600,37,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000299,PAT-106094,PCM,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",1993-06-05,F,300,30,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000300,PAT-139312,PCM,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",37,F,300,37,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000301,PAT-155601,PCM,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",14,M,400,14,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000302,PAT-102326,PCM,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",23/09/2001,M,300,22,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000303,PAT-200102,PCM,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",34,F,300,34,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000304,PAT-104385,PCM,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",07/12/1997,F,600,25,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000305,PAT-131353,PCM,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",49,F,400,49,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000306,PAT-129584,PCM,2023-10-03,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",27,M,300,27,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000307,PAT-208332,PCM,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",52,F,300,52,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000308,PAT-135491,PCM,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",27,F,400,27,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000309,PAT-170594,PCM,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",43,F,600,43,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000310,PAT-178341,PCM,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",57,F,400,57,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000311,PAT-124778,PCM,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",63,F,400,63,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000312,PAT-198113,PCM,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",92,M,600,92,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000313,PAT-208722,PCM,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",24-Sep-1980,M,400,43,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000314,PAT-159024,PCM,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",77,M,400,77,Geriatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000315,PAT-199597,PCM,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",24,M,600,24,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000316,PAT-109368,PCM,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",61,M,500,61,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000317,PAT-211583,PCM,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",59,F,300,59,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000318,PAT-215428,PCM,2023-10-03,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,33,F,500,33,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000319,PAT-188588,PCM,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",13,M,400,13,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000320,PAT-202113,PCM,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,28,M,300,28,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000321,PAT-169309,PCM,2023-10-03,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",35,F,500,35,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000322,PAT-151580,PCM,2023-10-03,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",03-Apr-2013,F,400,10,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000323,PAT-140286,PCM,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,1978-05-11,M,500,45,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000324,PAT-214492,PCM,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",36,F,300,36,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000325,PAT-164057,PCM,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",61,M,400,61,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000326,PAT-152866,PCM,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",1996/03/15,M,300,27,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000327,PAT-164495,PCM,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",13,F,600,13,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000328,PAT-118786,PCM,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",21,F,500,21,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000329,PAT-144978,PCM,2023-10-03,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",65,F,300,65,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000330,PAT-117788,PCM,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",31,M,300,31,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000331,PAT-202158,PCM,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",21,F,500,21,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000332,PAT-148202,PCM,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",13,F,300,13,Pediatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000333,PAT-106402,PCM,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",78,M,500,78,Geriatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000334,PAT-106702,PCM,2023-10-03,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,1989/11/10,M,600,33,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000335,PAT-164188,PCM,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",1975/01/03,F,400,48,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000336,PAT-193361,PCM,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",53,F,600,53,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000337,PAT-105125,PCM,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",34,F,300,34,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000338,PAT-194083,PCM,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",18,M,600,18,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000339,PAT-165018,PCM,2023-10-03,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",92,F,400,92,Geriatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000340,PAT-105587,PCM,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,74,F,500,74,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000341,PAT-194486,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,19/11/1977,F,400,45,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000342,PAT-118162,PCM,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",24,F,500,24,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000343,PAT-106729,PCM,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",22/09/1962,M,600,61,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000344,PAT-145834,PCM,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",14/05/1999,M,600,24,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000345,PAT-204590,PCM,2023-10-03,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",19,F,400,19,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000346,PAT-110281,PCM,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",34,F,400,34,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000347,PAT-192594,PCM,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",17,F,500,17,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000348,PAT-206643,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,1985/02/22,F,600,38,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000349,PAT-171010,PCM,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",36,M,300,36,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000350,PAT-125645,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,10,M,600,10,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000351,PAT-193529,PCM,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,23,F,300,23,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000352,PAT-118845,PCM,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",45,M,600,45,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000353,PAT-123093,PCM,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",22-Oct-1977,M,600,45,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000354,PAT-197028,PCM,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",08-Nov-1997,M,600,25,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000355,PAT-143130,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,1949/04/09,M,300,74,Geriatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000356,PAT-180101,PCM,2023-10-03,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",47,M,300,47,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000357,PAT-205532,PCM,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,75,M,600,75,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000358,PAT-174319,PCM,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",2007/11/08,F,400,15,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000359,PAT-183785,PCM,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",2001-02-18,F,400,22,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000360,PAT-180690,PCM,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",36,F,300,36,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000361,PAT-163307,PCM,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,46,F,300,46,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000362,PAT-135652,PCM,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",43,M,300,43,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000363,PAT-216283,PCM,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",24,F,500,24,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000364,PAT-200553,PCM,2023-10-03,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,46,F,500,46,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000365,PAT-143048,PCM,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,20-Jun-2012,M,400,11,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000366,PAT-165946,PCM,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",19/04/1992,F,500,31,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000367,PAT-103022,PCM,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",21,F,300,21,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000368,PAT-149331,PCM,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",1985-06-03,M,500,38,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000369,PAT-218741,PCM,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",36,F,300,36,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000370,PAT-214082,PCM,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",55,M,300,55,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000371,PAT-128675,PCM,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",79,F,400,79,Geriatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000372,PAT-106850,PCM,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",30,F,500,30,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000373,PAT-168905,PCM,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,1996-09-08,M,500,27,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000374,PAT-123478,PCM,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",28,M,300,28,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000375,PAT-155722,PCM,2023-10-03,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,76,F,400,76,Geriatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000376,PAT-122200,PCM,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",14,M,300,14,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000377,PAT-108987,PCM,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,15/03/1982,F,400,41,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000378,PAT-174338,PCM,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",1983/08/28,M,500,40,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000379,PAT-216333,PCM,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,21/11/2003,M,300,19,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000380,PAT-103173,HCH,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",14,M,600,14,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000381,PAT-105159,HCH,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",17,F,600,17,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000382,PAT-203039,HCH,2023-10-03,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",24,F,400,24,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000383,PAT-177796,HCH,2023-10-03,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",37,M,400,37,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000384,PAT-208451,HCH,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",32,F,600,32,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000385,PAT-145950,HCH,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",30,M,300,30,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000386,PAT-100363,HCH,2023-10-03,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,35,M,400,35,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000387,PAT-153539,HCH,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",5,F,300,5,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000388,PAT-114216,HCH,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",12,F,400,12,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000389,PAT-154509,HCH,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,1951-11-16,F,500,71,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000390,PAT-118235,HCH,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",23,F,400,23,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000391,PAT-102931,HCH,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",92,M,400,92,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000392,PAT-115944,HCH,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,24,F,600,24,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000393,PAT-110138,HCH,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,13,F,400,13,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000394,PAT-103423,HCH,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",88,F,500,88,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000395,PAT-117868,HCH,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",38,F,400,38,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000396,PAT-193909,HCH,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",25,M,300,25,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000397,PAT-135484,HCH,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,05/12/2006,F,600,16,Pediatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000398,PAT-203662,HCH,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,36,M,600,36,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000399,PAT-195020,HCH,2023-10-03,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,21,M,300,21,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000400,PAT-147033,HCH,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",63,F,300,63,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000401,PAT-102831,HCH,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",17,F,300,17,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000402,PAT-193205,HCH,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",09-May-1988,M,500,35,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000403,PAT-157874,HCH,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",22,F,400,22,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000404,PAT-191885,HCH,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,38,F,400,38,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000405,PAT-207997,HCH,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",44,M,600,44,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000406,PAT-106239,HCH,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",88,M,400,88,Geriatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000407,PAT-183510,HCH,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",50,M,600,50,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000408,PAT-152163,HCH,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",50,F,500,50,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000409,PAT-111430,HCH,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",10,M,500,10,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000410,PAT-166249,HCH,2023-10-03,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",10,F,400,10,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000411,PAT-185761,HCH,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",46,F,300,46,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000412,PAT-193412,HCH,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,24,M,400,24,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000413,PAT-151444,HCH,2023-10-03,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",30,F,400,30,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000414,PAT-217501,HCH,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",37,M,300,37,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000415,PAT-180176,HCH,2023-10-03,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",2006-10-12,M,600,16,Pediatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000416,PAT-127596,HCH,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",33,M,300,33,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000417,PAT-169714,HCH,2023-10-03,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",24,F,400,24,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000418,PAT-165208,HCH,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",78,M,600,78,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000419,PAT-180832,HCH,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",46,M,600,46,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000420,PAT-215103,HCH,2023-10-03,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",92,F,300,92,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000421,PAT-190402,HCH,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",20,F,500,20,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000422,PAT-177843,HCH,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",35,M,500,35,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000423,PAT-144622,HCH,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",46,M,400,46,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000424,PAT-147560,HCH,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,45,F,300,45,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000425,PAT-169130,HCH,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",14,M,500,14,Pediatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000426,PAT-214250,HCH,2023-10-03,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",2011-02-24,F,400,12,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000427,PAT-135069,HCH,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",66,F,400,66,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000428,PAT-150085,HCH,2023-10-03,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",43,M,300,43,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000429,PAT-173730,HCH,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",63,F,500,63,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000430,PAT-134592,HCH,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",62,F,500,62,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000431,PAT-149961,HCH,2023-10-03,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",29,F,400,29,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000432,PAT-164071,HCH,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",28/08/1997,F,500,26,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000433,PAT-207612,HCH,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",22-Jul-2013,M,400,10,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000434,PAT-213302,HCH,2023-10-03,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",21,F,400,21,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000435,PAT-147898,HCH,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",59,M,600,59,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000436,PAT-123566,HCH,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,10,F,400,10,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000437,PAT-131178,HCH,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",21/11/1995,M,300,27,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000438,PAT-208370,HCH,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",16,F,400,16,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000439,PAT-148770,HCH,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",63,M,600,63,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000440,PAT-202124,HCH,2023-10-03,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,84,F,600,84,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000441,PAT-152676,HCH,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,25,M,400,25,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000442,PAT-208195,HCH,2023-10-03,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",22-Dec-1966,F,300,56,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000443,PAT-132241,HCH,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",10,M,600,10,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000444,PAT-187269,HCH,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,30,M,300,30,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000445,PAT-145502,KFC,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",79,M,600,79,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000446,PAT-155305,KFC,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",10,M,600,10,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000447,PAT-206179,KFC,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,28,M,500,28,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000448,PAT-128708,KFC,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",16,F,500,16,Pediatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000449,PAT-107533,KFC,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",41,F,500,41,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000450,PAT-202631,KFC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",61,F,600,61,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000451,PAT-112029,KFC,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,86,F,500,86,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000452,PAT-109075,KFC,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",43,M,300,43,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000453,PAT-175116,KFC,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",20/11/1945,F,300,77,Geriatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000454,PAT-138510,KFC,2023-10-03,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",85,M,400,85,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000455,PAT-161844,KFC,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,29,F,400,29,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000456,PAT-147797,KFC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",36,M,300,36,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000457,PAT-133975,KFC,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",15,F,400,15,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000458,PAT-135150,KFC,2023-10-03,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",29,M,300,29,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000459,PAT-103375,KFC,2023-10-03,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",38,M,300,38,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000460,PAT-177355,KFC,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",51,F,400,51,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000461,PAT-188569,KFC,2023-10-03,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",01-Feb-1977,M,300,46,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000462,PAT-128196,KFC,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,92,M,300,92,Geriatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000463,PAT-144465,KFC,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",30,F,300,30,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000464,PAT-195452,KFC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",2012/08/10,M,400,11,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000465,PAT-132392,KFC,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",47,M,500,47,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000466,PAT-189085,KFC,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",46,F,600,46,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000467,PAT-140269,KFC,2023-10-03,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,16,M,400,16,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000468,PAT-204473,KFC,2023-10-03,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",22,F,300,22,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000469,PAT-209514,KFC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",27/10/2011,F,400,11,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000470,PAT-124888,KFC,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",03/01/1971,M,300,52,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000471,PAT-151711,KFC,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",21,M,500,21,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000472,PAT-183782,KFC,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",39,F,400,39,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000473,PAT-136594,KFC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",37,F,400,37,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000474,PAT-174860,KFC,2023-10-03,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,1971-03-15,F,500,52,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000475,PAT-156504,KFC,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",13-Aug-1953,F,600,70,Geriatric,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000476,PAT-160160,KFC,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,54,F,500,54,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000477,PAT-106058,KFC,2023-10-03,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,49,M,400,49,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000478,PAT-105960,KFC,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",1950/02/07,F,300,73,Geriatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000479,PAT-134087,KFC,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,28,M,300,28,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000480,PAT-150715,KFC,2023-10-03,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",14/04/1974,F,500,49,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000481,PAT-162880,KFC,2023-10-03,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",21,F,500,21,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000482,PAT-207515,KFC,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",19,M,600,19,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000483,PAT-217346,KFC,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",52,M,600,52,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000484,PAT-165920,KFC,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",27,M,400,27,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000485,PAT-207016,KFC,2023-10-03,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",1991/08/05,F,600,32,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000486,PAT-129606,KFC,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",15,M,600,15,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000487,PAT-129034,KFC,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",20-Jul-1973,M,500,50,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000488,PAT-206946,KFC,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",61,F,400,61,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000489,PAT-125528,KFC,2023-10-03,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",22,F,600,22,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000490,PAT-191205,KFC,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",24-Nov-1997,F,500,25,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000491,PAT-136211,KFC,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",82,M,500,82,Geriatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000492,PAT-170981,KFC,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",19,F,500,19,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000493,PAT-208499,KFC,2023-10-03,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",10,F,500,10,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000494,PAT-142536,KFC,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",28,F,300,28,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000495,PAT-201691,KFC,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",12,M,500,12,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000496,PAT-124954,KFC,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",22,M,600,22,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000497,PAT-214257,KFC,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",26-Apr-1978,M,500,45,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000498,PAT-144106,KFC,2023-10-03,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,18,M,600,18,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000499,PAT-142206,PMC,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",33,F,500,33,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000500,PAT-126839,PMC,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",30,F,600,30,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000501,PAT-126498,PMC,2023-10-03,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",24-Apr-1994,M,300,29,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000502,PAT-159426,PMC,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",50,M,400,50,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000503,PAT-158567,PMC,2023-10-03,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",6,F,300,6,Pediatric,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000504,PAT-184092,PMC,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",46,F,300,46,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000505,PAT-140605,PMC,2023-10-03,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",2006/10/13,M,600,16,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000506,PAT-207824,PMC,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",13,M,400,13,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000507,PAT-101231,PMC,2023-10-03,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",44,F,400,44,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000508,PAT-105419,PMC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",25,F,600,25,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000509,PAT-137772,PMC,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,50,F,500,50,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000510,PAT-115375,PMC,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",44,M,400,44,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000511,PAT-169946,PMC,2023-10-03,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",65,M,500,65,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000512,PAT-169277,PMC,2023-10-03,General Medicine,"acute viral fever, suspected dengue with warning signs",55,M,300,55,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000513,PAT-147586,PMC,2023-10-03,Orthopedics,"abscess right gluteal region, incision and drainage needed",26-Aug-1998,F,300,25,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000514,PAT-181399,PMC,2023-10-03,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",57,F,500,57,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000515,PAT-198128,PMC,2023-10-03,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",86,F,500,86,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000516,PAT-114906,PMC,2023-10-03,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",26,M,500,26,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000517,PAT-200548,PMC,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",34,M,600,34,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000518,PAT-117122,PMC,2023-10-03,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",22,M,400,22,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000519,PAT-179859,PMC,2023-10-03,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",92,M,500,92,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000520,PAT-143559,PMC,2023-10-03,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",07/10/2005,F,500,17,Pediatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000521,PAT-181215,PMC,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,26,M,600,26,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000522,PAT-131342,PMC,2023-10-03,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",10-Nov-2014,M,300,8,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000523,PAT-200484,PMC,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",71,F,600,71,Geriatric,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000524,PAT-185469,PMC,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",34,M,600,34,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000525,PAT-191850,PMC,2023-10-03,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,54,F,300,54,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000526,PAT-104200,PMC,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,11,M,600,11,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000527,PAT-118367,PMC,2023-10-03,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",45,F,400,45,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000528,PAT-143566,PMC,2023-10-03,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",32,F,400,32,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000529,PAT-126753,PMC,2023-10-03,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",56,M,400,56,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000530,PAT-106825,PMC,2023-10-03,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",22/06/1999,F,400,24,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000531,PAT-155085,PMC,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,2004/08/25,M,300,19,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000532,PAT-182654,PMC,2023-10-03,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",1999-08-27,M,600,24,Adult,Dengue_Vector,2023-10-03,2023-10-02
+OPD-1000533,PAT-198692,PMC,2023-10-03,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",29,F,500,29,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000534,PAT-120917,PMC,2023-10-03,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",20,F,300,20,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000535,PAT-163971,PMC,2023-10-03,Pediatrics,"routine growth monitoring, mild nutritional anemia",57,F,600,57,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000536,PAT-161306,PMC,2023-10-03,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",09/09/2016,M,600,7,Pediatric,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000537,PAT-136371,PMC,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,14,M,300,14,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000538,PAT-211086,PMC,2023-10-03,General Medicine,amoebic dysentery with blood in stool and tenesmus,44,M,300,44,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000539,PAT-157270,PMC,2023-10-03,General Medicine,"acute gastritis, severe epigastric pain and heartburn",37,M,500,37,Adult,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000540,PAT-128161,PMC,2023-10-03,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",13,M,300,13,Pediatric,Gastrointestinal,2023-10-03,2023-10-02
+OPD-1000541,PAT-159128,PMC,2023-10-03,Pediatrics,pediatric febrile convulsion with acute otitis media,27,F,600,27,Adult,Maternal_Pediatric,2023-10-03,2023-10-02
+OPD-1000542,PAT-172609,PMC,2023-10-03,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",46,M,600,46,Adult,General_Trauma_Surgical,2023-10-03,2023-10-02
+OPD-1000543,PAT-140353,PMC,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,70,M,300,70,Geriatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000544,PAT-104563,PMC,2023-10-03,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",13,F,600,13,Pediatric,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000545,PAT-164976,PMC,2023-10-03,General Medicine,allergic rhinitis with seasonal asthma flare-up,38,F,400,38,Adult,Acute_Respiratory,2023-10-03,2023-10-02
+OPD-1000546,PAT-154187,PMC,2023-10-03,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",43,M,300,43,Adult,Chronic_Cardiometabolic,2023-10-03,2023-10-02
+OPD-1000547,PAT-212830,PCM,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",26,F,500,26,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000548,PAT-155159,PCM,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",11-Feb-1990,M,300,33,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000549,PAT-153497,PCM,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",43,F,600,43,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000550,PAT-205925,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,6,F,500,6,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000551,PAT-176154,PCM,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",30,M,300,30,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000552,PAT-136527,PCM,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",36,F,500,36,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000553,PAT-102362,PCM,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",73,F,500,73,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000554,PAT-124757,PCM,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,43,F,500,43,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000555,PAT-194529,PCM,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",46,M,400,46,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000556,PAT-111120,PCM,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",9,F,500,9,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000557,PAT-193443,PCM,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",35,F,600,35,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000558,PAT-112000,PCM,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,46,F,400,46,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000559,PAT-173001,PCM,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,2014-08-15,F,300,9,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000560,PAT-160048,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,92,F,400,92,Geriatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000561,PAT-171754,PCM,2023-10-04,Pediatrics,"routine growth monitoring, mild nutritional anemia",1989-01-09,M,500,34,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000562,PAT-134964,PCM,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",25,F,300,25,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000563,PAT-109460,PCM,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",1998/09/24,F,500,25,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000564,PAT-156809,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,30,F,600,30,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000565,PAT-189708,PCM,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,14,M,600,14,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000566,PAT-158556,PCM,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",71,F,600,71,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000567,PAT-165475,PCM,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",84,F,600,84,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000568,PAT-103575,PCM,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",45,F,300,45,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000569,PAT-141484,PCM,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",26,M,400,26,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000570,PAT-204329,PCM,2023-10-04,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,12,F,400,12,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000571,PAT-163685,PCM,2023-10-04,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",32,M,600,32,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000572,PAT-102908,PCM,2023-10-04,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",40,M,500,40,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000573,PAT-131371,PCM,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",1991-07-08,M,600,32,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000574,PAT-129874,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,2019-04-22,M,500,4,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000575,PAT-141219,PCM,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",16-Jul-1987,M,400,36,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000576,PAT-201151,PCM,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,14-Apr-1994,F,500,29,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000577,PAT-140780,PCM,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,2015/10/09,M,600,7,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000578,PAT-133407,PCM,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,44,F,300,44,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000579,PAT-192216,PCM,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",59,M,300,59,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000580,PAT-180480,PCM,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",04-Apr-1940,M,400,83,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000581,PAT-216719,PCM,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",2012-01-04,F,500,11,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000582,PAT-180507,PCM,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,39,M,500,39,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000583,PAT-118440,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,52,M,500,52,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000584,PAT-122619,PCM,2023-10-04,General Medicine,"acute gastritis, severe epigastric pain and heartburn",89,M,500,89,Geriatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000585,PAT-134455,PCM,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",1972/09/08,F,400,51,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000586,PAT-155791,PCM,2023-10-04,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,23,M,400,23,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000587,PAT-207671,PCM,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",23/08/2016,M,400,7,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000588,PAT-136492,PCM,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",10,F,600,10,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000589,PAT-188295,PCM,2023-10-04,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",59,F,500,59,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000590,PAT-185138,PCM,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,2000-01-02,M,300,23,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000591,PAT-156096,PCM,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",35,F,300,35,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000592,PAT-204795,PCM,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",62,M,400,62,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000593,PAT-108821,PCM,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",34,F,400,34,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000594,PAT-121316,PCM,2023-10-04,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",18-Sep-2002,F,400,21,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000595,PAT-146583,PCM,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",92,M,500,92,Geriatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000596,PAT-133040,PCM,2023-10-04,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,1958-11-15,F,600,64,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000597,PAT-126913,PCM,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",13/01/2003,M,600,20,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000598,PAT-183578,PCM,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,28/11/1983,F,300,39,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000599,PAT-219159,PCM,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",24,F,400,24,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000600,PAT-202526,PCM,2023-10-04,Pediatrics,"routine growth monitoring, mild nutritional anemia",12,F,600,12,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000601,PAT-116736,PCM,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",1983/07/01,M,500,40,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000602,PAT-177757,PCM,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",41,F,300,41,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000603,PAT-143326,PCM,2023-10-04,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",56,F,500,56,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000604,PAT-168012,PCM,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,32,F,600,32,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000605,PAT-211564,PCM,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",12-Sep-2018,F,300,5,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000606,PAT-109500,PCM,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",21,F,300,21,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000607,PAT-140312,PCM,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",24,F,300,24,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000608,PAT-205967,PCM,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",22,F,500,22,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000609,PAT-137732,PCM,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",34,M,300,34,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000610,PAT-101354,PCM,2023-10-04,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",15,F,300,15,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000611,PAT-213223,PCM,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",1999/02/14,F,500,24,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000612,PAT-210244,PCM,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",66,F,300,66,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000613,PAT-139459,PCM,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,15,F,500,15,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000614,PAT-207312,PCM,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",2006/12/24,F,400,16,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000615,PAT-122154,PCM,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",17,F,400,17,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000616,PAT-217913,PCM,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",44,M,600,44,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000617,PAT-194390,PCM,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,34,M,600,34,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000618,PAT-100591,PCM,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,44,F,500,44,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000619,PAT-169014,PCM,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",60,M,600,60,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000620,PAT-147191,PCM,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",4,M,500,4,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000621,PAT-148156,PCM,2023-10-04,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",14,F,400,14,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000622,PAT-147353,PCM,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,37,F,600,37,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000623,PAT-179521,PCM,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",55,F,500,55,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000624,PAT-196064,PCM,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,32,M,500,32,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000625,PAT-212380,PCM,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",22-Feb-1968,M,300,55,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000626,PAT-175712,PCM,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",1971-03-26,F,600,52,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000627,PAT-126516,PCM,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",57,F,300,57,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000628,PAT-217621,PCM,2023-10-04,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",32,F,400,32,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000629,PAT-127777,PCM,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",45,F,600,45,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000630,PAT-199715,PCM,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",81,F,600,81,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000631,PAT-178966,PCM,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",41,F,400,41,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000632,PAT-108340,PCM,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,2020/12/25,M,300,2,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000633,PAT-105254,PCM,2023-10-04,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",72,M,500,72,Geriatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000634,PAT-169919,PCM,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,12,M,500,12,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000635,PAT-166180,PCM,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",40,M,500,40,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000636,PAT-138594,HCH,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",20-Oct-1983,M,500,39,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000637,PAT-129571,HCH,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",58,M,400,58,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000638,PAT-215220,HCH,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",2010-07-16,M,500,13,Pediatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000639,PAT-120143,HCH,2023-10-04,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",31,M,300,31,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000640,PAT-132558,HCH,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,65,M,500,65,Geriatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000641,PAT-180785,HCH,2023-10-04,Pediatrics,"routine growth monitoring, mild nutritional anemia",15,M,600,15,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000642,PAT-112276,HCH,2023-10-04,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",24,M,600,24,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000643,PAT-155279,HCH,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",31,F,600,31,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000644,PAT-124694,HCH,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,13,M,300,13,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000645,PAT-138046,HCH,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,60,M,300,60,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000646,PAT-118406,HCH,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",38,F,600,38,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000647,PAT-157597,HCH,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,38,F,300,38,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000648,PAT-103842,HCH,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,57,F,600,57,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000649,PAT-129669,HCH,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",48,F,500,48,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000650,PAT-122353,HCH,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",20/09/1987,F,500,36,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000651,PAT-171099,HCH,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",71,F,500,71,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000652,PAT-206288,HCH,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",19,M,600,19,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000653,PAT-161664,HCH,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",30,M,300,30,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000654,PAT-139129,HCH,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",1971/11/16,M,500,51,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000655,PAT-102289,HCH,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,63,M,600,63,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000656,PAT-132548,HCH,2023-10-04,Orthopedics,"abscess right gluteal region, incision and drainage needed",35,F,600,35,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000657,PAT-126587,HCH,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",52,F,300,52,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000658,PAT-199541,HCH,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",26,M,600,26,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000659,PAT-182136,HCH,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",27,M,500,27,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000660,PAT-162792,HCH,2023-10-04,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,58,F,400,58,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000661,PAT-149135,HCH,2023-10-04,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",2008/02/26,M,400,15,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000662,PAT-125386,HCH,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",04/02/1934,F,400,89,Geriatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000663,PAT-183893,HCH,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,49,M,500,49,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000664,PAT-150750,HCH,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",38,M,300,38,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000665,PAT-118392,HCH,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",90,F,500,90,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000666,PAT-218132,HCH,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",28,F,400,28,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000667,PAT-184186,HCH,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",22-Feb-2004,M,300,19,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000668,PAT-142038,HCH,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",9,M,500,9,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000669,PAT-169286,HCH,2023-10-04,Orthopedics,"abscess right gluteal region, incision and drainage needed",41,F,500,41,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000670,PAT-120002,HCH,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",2006-04-19,F,500,17,Pediatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000671,PAT-157135,HCH,2023-10-04,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",29,F,300,29,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000672,PAT-137182,HCH,2023-10-04,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",32,M,300,32,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000673,PAT-208861,HCH,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",34,M,600,34,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000674,PAT-200025,HCH,2023-10-04,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",26/08/1995,F,300,28,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000675,PAT-148173,HCH,2023-10-04,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",19,F,500,19,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000676,PAT-164739,HCH,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",23,M,600,23,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000677,PAT-174004,HCH,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,2020-03-27,F,600,3,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000678,PAT-180414,HCH,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",66,F,600,66,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000679,PAT-181145,HCH,2023-10-04,General Medicine,"acute gastritis, severe epigastric pain and heartburn",33,M,300,33,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000680,PAT-119532,HCH,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",87,M,500,87,Geriatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000681,PAT-173851,HCH,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",20,M,300,20,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000682,PAT-125084,HCH,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",34,F,300,34,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000683,PAT-121041,HCH,2023-10-04,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",38,M,500,38,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000684,PAT-153348,HCH,2023-10-04,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",46,F,400,46,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000685,PAT-103983,HCH,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",63,M,400,63,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000686,PAT-156569,HCH,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",21,F,300,21,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000687,PAT-169220,HCH,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",85,F,600,85,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000688,PAT-191255,HCH,2023-10-04,Pediatrics,"routine growth monitoring, mild nutritional anemia",22,M,300,22,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000689,PAT-203495,HCH,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,11,F,400,11,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000690,PAT-170605,HCH,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",24,F,400,24,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000691,PAT-122156,HCH,2023-10-04,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",48,M,400,48,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000692,PAT-115883,HCH,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",09/06/1991,F,400,32,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000693,PAT-191975,HCH,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,26,M,400,26,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000694,PAT-197848,HCH,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",48,F,400,48,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000695,PAT-207260,KFC,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",2004/04/16,F,400,19,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000696,PAT-119454,KFC,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",52,F,300,52,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000697,PAT-196350,KFC,2023-10-04,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",44,F,300,44,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000698,PAT-203612,KFC,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",4,F,400,4,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000699,PAT-159271,KFC,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",8,F,300,8,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000700,PAT-161539,KFC,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",1989-09-16,M,600,34,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000701,PAT-113643,KFC,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",2024/09/18,M,300,0,Pediatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000702,PAT-154028,KFC,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",27/05/1990,F,500,33,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000703,PAT-161750,KFC,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,62,F,500,62,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000704,PAT-116502,KFC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",1977/04/02,F,500,46,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000705,PAT-133238,KFC,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",2005-06-22,F,400,18,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000706,PAT-157516,KFC,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",92,F,300,92,Geriatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000707,PAT-178457,KFC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,73,M,400,73,Geriatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000708,PAT-171039,KFC,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,37,F,600,37,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000709,PAT-170287,KFC,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",36,M,600,36,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000710,PAT-177641,KFC,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,54,F,400,54,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000711,PAT-146965,KFC,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,14,M,600,14,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000712,PAT-124966,KFC,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",24,M,600,24,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000713,PAT-142305,KFC,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",1991-12-01,M,500,31,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000714,PAT-166791,KFC,2023-10-04,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",20,F,500,20,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000715,PAT-211480,KFC,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",50,F,400,50,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000716,PAT-161583,KFC,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,1937-01-21,M,500,86,Geriatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000717,PAT-191314,KFC,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",21,F,400,21,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000718,PAT-135721,KFC,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",49,F,500,49,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000719,PAT-126742,KFC,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",69,M,400,69,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000720,PAT-185589,KFC,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",10,F,500,10,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000721,PAT-217602,KFC,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",1957/08/26,M,300,66,Geriatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000722,PAT-179279,KFC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,58,F,400,58,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000723,PAT-147135,KFC,2023-10-04,Pediatrics,"routine growth monitoring, mild nutritional anemia",41,F,300,41,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000724,PAT-193514,KFC,2023-10-04,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,1985/01/19,M,300,38,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000725,PAT-102656,KFC,2023-10-04,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",1987-03-27,M,300,36,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000726,PAT-113401,KFC,2023-10-04,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",1978/05/11,M,600,45,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000727,PAT-194816,KFC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,39,F,400,39,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000728,PAT-117298,KFC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,32,M,400,32,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000729,PAT-161165,KFC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,67,M,300,67,Geriatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000730,PAT-113825,KFC,2023-10-04,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",12,F,500,12,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000731,PAT-200536,KFC,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,2012/05/22,M,300,11,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000732,PAT-122649,KFC,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",44,F,600,44,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000733,PAT-206141,KFC,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",32,F,600,32,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000734,PAT-139649,KFC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,6,M,400,6,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000735,PAT-166728,KFC,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",62,M,300,62,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000736,PAT-165957,KFC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,92,M,600,92,Geriatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000737,PAT-114883,KFC,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",05-Jan-1982,F,300,41,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000738,PAT-214053,KFC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",1963-12-23,M,400,59,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000739,PAT-131412,KFC,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,18,M,400,18,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000740,PAT-183269,KFC,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,07/10/2002,M,300,20,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000741,PAT-107519,KFC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,51,M,400,51,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000742,PAT-199418,KFC,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",02/10/1968,F,300,55,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000743,PAT-205966,PMC,2023-10-04,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",20,F,300,20,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000744,PAT-152486,PMC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,15,M,300,15,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000745,PAT-188957,PMC,2023-10-04,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,16,F,400,16,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000746,PAT-175804,PMC,2023-10-04,General Medicine,"acute viral fever, suspected dengue with warning signs",31,M,600,31,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000747,PAT-186709,PMC,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",57,M,400,57,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000748,PAT-185540,PMC,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",54,F,300,54,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000749,PAT-126711,PMC,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",64,M,600,64,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000750,PAT-145957,PMC,2023-10-04,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",26,F,300,26,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000751,PAT-121066,PMC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,7,M,400,7,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000752,PAT-112226,PMC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",31,F,500,31,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000753,PAT-116007,PMC,2023-10-04,General Medicine,allergic rhinitis with seasonal asthma flare-up,78,M,600,78,Geriatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000754,PAT-217804,PMC,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",57,F,400,57,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000755,PAT-173973,PMC,2023-10-04,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",63,F,400,63,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000756,PAT-107785,PMC,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,23,F,500,23,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000757,PAT-198543,PMC,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",1983/05/20,F,600,40,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000758,PAT-116151,PMC,2023-10-04,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",92,M,400,92,Geriatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000759,PAT-177912,PMC,2023-10-04,Orthopedics,"abscess right gluteal region, incision and drainage needed",20,M,600,20,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000760,PAT-215264,PMC,2023-10-04,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",40,M,300,40,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000761,PAT-167138,PMC,2023-10-04,General Medicine,"acute gastritis, severe epigastric pain and heartburn",24,F,600,24,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000762,PAT-197500,PMC,2023-10-04,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",34,M,500,34,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000763,PAT-204783,PMC,2023-10-04,General Medicine,"acute viral fever, suspected dengue with warning signs",41,M,300,41,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000764,PAT-140152,PMC,2023-10-04,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",19,F,300,19,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000765,PAT-134708,PMC,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",1969/07/10,M,300,54,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000766,PAT-139535,PMC,2023-10-04,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",27,M,500,27,Adult,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000767,PAT-177467,PMC,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",17-Jun-2014,F,500,9,Pediatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000768,PAT-195695,PMC,2023-10-04,General Medicine,"acute gastritis, severe epigastric pain and heartburn",12/11/2004,M,600,18,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000769,PAT-143449,PMC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",16,M,400,16,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000770,PAT-155364,PMC,2023-10-04,General Medicine,"acute viral fever, suspected dengue with warning signs",34,M,300,34,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000771,PAT-196294,PMC,2023-10-04,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,17,F,300,17,Pediatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000772,PAT-132827,PMC,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",25,F,600,25,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000773,PAT-194393,PMC,2023-10-04,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",04/10/2007,F,400,16,Pediatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000774,PAT-140609,PMC,2023-10-04,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",92,F,400,92,Geriatric,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000775,PAT-179480,PMC,2023-10-04,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",1955/07/22,F,300,68,Geriatric,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000776,PAT-129569,PMC,2023-10-04,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,9,M,400,9,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000777,PAT-158530,PMC,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",27,M,300,27,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000778,PAT-219749,PMC,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",37,F,500,37,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000779,PAT-108872,PMC,2023-10-04,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",19,F,500,19,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000780,PAT-176553,PMC,2023-10-04,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",17,F,500,17,Pediatric,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000781,PAT-144946,PMC,2023-10-04,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",25,M,500,25,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000782,PAT-117022,PMC,2023-10-04,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",2001/04/04,M,600,22,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000783,PAT-177751,PMC,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,32,M,500,32,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000784,PAT-176554,PMC,2023-10-04,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",24,M,300,24,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000785,PAT-138852,PMC,2023-10-04,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,2001/08/22,M,400,22,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000786,PAT-149966,PMC,2023-10-04,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",20,M,600,20,Adult,Dengue_Vector,2023-10-04,2023-10-02
+OPD-1000787,PAT-149433,PMC,2023-10-04,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",68,M,400,68,Geriatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000788,PAT-178669,PMC,2023-10-04,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,12,F,500,12,Pediatric,General_Trauma_Surgical,2023-10-04,2023-10-02
+OPD-1000789,PAT-121905,PMC,2023-10-04,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",2002/08/07,F,400,21,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000790,PAT-100670,PMC,2023-10-04,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",52,M,300,52,Adult,Chronic_Cardiometabolic,2023-10-04,2023-10-02
+OPD-1000791,PAT-143367,PMC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,15,M,500,15,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000792,PAT-127377,PMC,2023-10-04,General Medicine,"acute gastritis, severe epigastric pain and heartburn",31,M,300,31,Adult,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000793,PAT-103864,PMC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",68,M,600,68,Geriatric,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000794,PAT-143146,PMC,2023-10-04,General Medicine,amoebic dysentery with blood in stool and tenesmus,14,F,400,14,Pediatric,Gastrointestinal,2023-10-04,2023-10-02
+OPD-1000795,PAT-170702,PMC,2023-10-04,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",25,F,500,25,Adult,Acute_Respiratory,2023-10-04,2023-10-02
+OPD-1000796,PAT-173895,PMC,2023-10-04,Pediatrics,pediatric febrile convulsion with acute otitis media,1982-04-18,M,600,41,Adult,Maternal_Pediatric,2023-10-04,2023-10-02
+OPD-1000797,PAT-171730,PCM,2023-10-05,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",47,F,400,47,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000798,PAT-205550,PCM,2023-10-05,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",37,M,400,37,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000799,PAT-134704,PCM,2023-10-05,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",92,F,300,92,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000800,PAT-149051,PCM,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,27,F,300,27,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000801,PAT-116548,PCM,2023-10-05,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",2000/04/01,F,300,23,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000802,PAT-202043,PCM,2023-10-05,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",13,F,600,13,Pediatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000803,PAT-198927,PCM,2023-10-05,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",56,M,300,56,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000804,PAT-102412,PCM,2023-10-05,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",22,F,600,22,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000805,PAT-129765,PCM,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",7,M,300,7,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000806,PAT-101448,PCM,2023-10-05,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",13,M,300,13,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000807,PAT-182737,PCM,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",16/06/1974,F,400,49,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000808,PAT-200974,PCM,2023-10-05,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",1996-04-05,F,600,27,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000809,PAT-149152,PCM,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",45,M,300,45,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000810,PAT-102362,PCM,2023-10-05,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",73,F,600,73,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000811,PAT-154796,PCM,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,17,F,400,17,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000812,PAT-113774,PCM,2023-10-05,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",34,M,500,34,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000813,PAT-105828,PCM,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",18,F,400,18,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000814,PAT-157701,PCM,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",57,F,600,57,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000815,PAT-144416,PCM,2023-10-05,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",27,M,300,27,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000816,PAT-189598,PCM,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,17,M,300,17,Pediatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000817,PAT-159507,PCM,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",37,M,500,37,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000818,PAT-202929,PCM,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",05/07/1970,M,300,53,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000819,PAT-190582,PCM,2023-10-05,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",23-Sep-1946,F,300,77,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000820,PAT-206375,PCM,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",33,M,500,33,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000821,PAT-206099,PCM,2023-10-05,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",90,F,300,90,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000822,PAT-155838,PCM,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",55,M,600,55,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000823,PAT-166532,PCM,2023-10-05,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",6,F,500,6,Pediatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000824,PAT-209226,PCM,2023-10-05,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,31,F,300,31,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000825,PAT-191130,PCM,2023-10-05,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",19-Dec-1984,M,400,38,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000826,PAT-190011,PCM,2023-10-05,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",08/06/2004,F,300,19,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000827,PAT-149931,PCM,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",50,F,400,50,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000828,PAT-201556,PCM,2023-10-05,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",37,F,500,37,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000829,PAT-143717,PCM,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",1987/01/24,M,300,36,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000830,PAT-108798,PCM,2023-10-05,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",2008-01-25,M,300,15,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000831,PAT-165966,PCM,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",47,M,300,47,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000832,PAT-114075,PCM,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",45,F,300,45,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000833,PAT-128454,PCM,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",35,F,400,35,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000834,PAT-149135,PCM,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",2008/02/26,M,400,15,Pediatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000835,PAT-167103,PCM,2023-10-05,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",22,M,500,22,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000836,PAT-117182,PCM,2023-10-05,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",67,M,600,67,Geriatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000837,PAT-145525,PCM,2023-10-05,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",05/07/1983,M,600,40,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000838,PAT-208034,PCM,2023-10-05,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",9,M,500,9,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000839,PAT-137194,PCM,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",21,M,300,21,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000840,PAT-101994,PCM,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",40,M,400,40,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000841,PAT-160642,PCM,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",44,F,400,44,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000842,PAT-204023,PCM,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",34,M,600,34,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000843,PAT-199723,PCM,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",48,F,400,48,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000844,PAT-161839,PCM,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",25,M,400,25,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000845,PAT-151040,PCM,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,14/11/1988,M,600,34,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000846,PAT-159222,PCM,2023-10-05,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",13,F,300,13,Pediatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000847,PAT-204698,PCM,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",38,M,300,38,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000848,PAT-185386,PCM,2023-10-05,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",34,F,600,34,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000849,PAT-208842,PCM,2023-10-05,General Medicine,allergic rhinitis with seasonal asthma flare-up,17,M,300,17,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000850,PAT-190410,PCM,2023-10-05,Pediatrics,"routine growth monitoring, mild nutritional anemia",19,M,500,19,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000851,PAT-141382,PCM,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",21,F,400,21,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000852,PAT-124264,PCM,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,20/04/1997,F,500,26,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000853,PAT-103169,PCM,2023-10-05,Pediatrics,"routine growth monitoring, mild nutritional anemia",18,F,600,18,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000854,PAT-147224,PCM,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",37,F,500,37,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000855,PAT-101457,PCM,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",38,F,300,38,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000856,PAT-170728,PCM,2023-10-05,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",15,M,500,15,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000857,PAT-187201,PCM,2023-10-05,General Medicine,"pediatric fever, persistent vomiting, low platelets, dengue probable",58,M,600,58,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000858,PAT-156228,PCM,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",14,M,300,14,Pediatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000859,PAT-178605,PCM,2023-10-05,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",20-Jul-2015,M,400,8,Pediatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000860,PAT-185373,PCM,2023-10-05,General Medicine,amoebic dysentery with blood in stool and tenesmus,15,M,300,15,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000861,PAT-141699,PCM,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,01/11/1936,M,400,86,Geriatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000862,PAT-185053,PCM,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",19,M,400,19,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000863,PAT-118628,PCM,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",1934/08/14,M,600,89,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000864,PAT-200838,PCM,2023-10-05,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",42,M,400,42,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000865,PAT-128617,PCM,2023-10-05,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",19,M,300,19,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000866,PAT-108308,PCM,2023-10-05,General Medicine,amoebic dysentery with blood in stool and tenesmus,2016-07-12,F,300,7,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000867,PAT-218035,PCM,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",14,F,500,14,Pediatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000868,PAT-125562,PCM,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,06-Aug-1952,M,300,71,Geriatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000869,PAT-211819,PCM,2023-10-05,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",15,M,500,15,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000870,PAT-126932,PCM,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",15,F,500,15,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000871,PAT-137944,PCM,2023-10-05,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",02-Nov-1969,F,600,53,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000872,PAT-199636,PCM,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",38,F,500,38,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000873,PAT-212447,PCM,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",37,F,400,37,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000874,PAT-191467,PCM,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",56,F,400,56,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000875,PAT-108118,PCM,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,57,F,500,57,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000876,PAT-161957,PCM,2023-10-05,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",23-May-2009,F,600,14,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000877,PAT-126620,PCM,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",58,F,500,58,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000878,PAT-162094,PCM,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",2001/11/14,M,600,21,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000879,PAT-150867,PCM,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",17,M,600,17,Pediatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000880,PAT-133102,PCM,2023-10-05,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",1957/08/20,M,600,66,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000881,PAT-165157,PCM,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",20,F,300,20,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000882,PAT-183229,PCM,2023-10-05,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",34,M,300,34,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000883,PAT-164486,PCM,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",19,F,400,19,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000884,PAT-132843,PCM,2023-10-05,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",38,M,600,38,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000885,PAT-146624,HCH,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",27,F,500,27,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000886,PAT-114873,HCH,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",11-Jun-1977,M,500,46,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000887,PAT-126519,HCH,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",50,M,300,50,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000888,PAT-161509,HCH,2023-10-05,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",45,M,300,45,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000889,PAT-191233,HCH,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,32,M,500,32,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000890,PAT-152924,HCH,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",16,M,500,16,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000891,PAT-163046,HCH,2023-10-05,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",19,M,600,19,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000892,PAT-104765,HCH,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",22,F,300,22,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000893,PAT-101815,HCH,2023-10-05,General Medicine,amoebic dysentery with blood in stool and tenesmus,42,M,600,42,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000894,PAT-100351,HCH,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,9,M,400,9,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000895,PAT-191751,HCH,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",59,F,600,59,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000896,PAT-136953,HCH,2023-10-05,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,23,F,500,23,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000897,PAT-207211,HCH,2023-10-05,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",19-Feb-1977,F,600,46,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000898,PAT-172926,HCH,2023-10-05,Pediatrics,"pediatric immunization, MMR and pentavalent booster, well child",11,F,500,11,Pediatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000899,PAT-126378,HCH,2023-10-05,Pediatrics,"routine antenatal checkup 26 weeks, fetal heart sound normal",39,F,300,39,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000900,PAT-103574,HCH,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",22,F,600,22,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000901,PAT-136292,HCH,2023-10-05,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",8,F,600,8,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000902,PAT-130106,HCH,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,47,M,300,47,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000903,PAT-170488,HCH,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,30,F,400,30,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000904,PAT-139521,HCH,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",32,M,400,32,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000905,PAT-133927,HCH,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",78,F,500,78,Geriatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000906,PAT-145320,HCH,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",27,M,400,27,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000907,PAT-120224,HCH,2023-10-05,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,36,F,400,36,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000908,PAT-106204,HCH,2023-10-05,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",1968/02/08,F,600,55,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000909,PAT-151349,HCH,2023-10-05,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",1934/04/06,M,500,89,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000910,PAT-213520,HCH,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",10,M,400,10,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000911,PAT-193127,HCH,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",22,M,300,22,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000912,PAT-181533,HCH,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,40,F,500,40,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000913,PAT-119768,HCH,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,14-Apr-2013,F,400,10,Pediatric,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000914,PAT-214912,HCH,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",34,M,600,34,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000915,PAT-113619,HCH,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",21,M,300,21,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000916,PAT-146769,HCH,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",21,F,600,21,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000917,PAT-218909,HCH,2023-10-05,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",18,F,300,18,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000918,PAT-217972,HCH,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,11,M,600,11,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000919,PAT-175349,HCH,2023-10-05,General Medicine,"bronchopneumonia with bilateral crackles, productive cough",36,F,400,36,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000920,PAT-109046,HCH,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",2008-05-13,M,400,15,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000921,PAT-104395,HCH,2023-10-05,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",64,M,400,64,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000922,PAT-148571,HCH,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",18/12/2007,M,500,15,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000923,PAT-126965,HCH,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",24,M,500,24,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000924,PAT-182192,HCH,2023-10-05,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",1938-02-27,M,600,85,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000925,PAT-142979,HCH,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",9,M,300,9,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000926,PAT-131823,HCH,2023-10-05,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",38,F,400,38,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000927,PAT-152407,HCH,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",30,F,600,30,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000928,PAT-144402,HCH,2023-10-05,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,10,M,300,10,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000929,PAT-151674,HCH,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",36,F,300,36,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000930,PAT-126142,HCH,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",29,M,300,29,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000931,PAT-151090,HCH,2023-10-05,Internal Medicine,"type 2 diabetes mellitus routine review, HbA1c check, FBS elevated",1987-05-06,M,600,36,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000932,PAT-159522,HCH,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",1997-06-19,M,300,26,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000933,PAT-105622,HCH,2023-10-05,Orthopedics,"laceration over left forearm, wound cleaning and suturing done",35,M,500,35,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000934,PAT-201830,HCH,2023-10-05,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",47,M,300,47,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000935,PAT-143133,HCH,2023-10-05,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",31,M,300,31,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000936,PAT-138141,HCH,2023-10-05,General Medicine,"high fever with chills, severe retro-orbital pain, ?dengue",45,M,400,45,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000937,PAT-143629,HCH,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",92,M,400,92,Geriatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000938,PAT-145067,HCH,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,26/10/1945,F,500,77,Geriatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000939,PAT-187287,HCH,2023-10-05,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",92,F,300,92,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000940,PAT-216712,HCH,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",5,F,400,5,Pediatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000941,PAT-138196,HCH,2023-10-05,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",35,F,500,35,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000942,PAT-185332,HCH,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",35,M,500,35,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000943,PAT-118581,HCH,2023-10-05,General Medicine,"suspected enteric fever (typhoid), high fever with step-ladder pattern",12,F,400,12,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000944,PAT-209333,HCH,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,9,M,600,9,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000945,PAT-145764,HCH,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",44,M,600,44,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000946,PAT-172672,HCH,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",1982/05/10,M,500,41,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000947,PAT-132855,KFC,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,20,F,300,20,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000948,PAT-210294,KFC,2023-10-05,General Medicine,amoebic dysentery with blood in stool and tenesmus,31,M,400,31,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000949,PAT-152906,KFC,2023-10-05,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",33,M,300,33,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000950,PAT-193465,KFC,2023-10-05,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",39,F,500,39,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000951,PAT-137920,KFC,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,9,F,600,9,Pediatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000952,PAT-127740,KFC,2023-10-05,General Medicine,"URI with severe throat pain, rhinorrhea and mild fever",1955/11/28,F,500,67,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000953,PAT-216165,KFC,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",83,M,300,83,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000954,PAT-149531,KFC,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,32,M,600,32,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000955,PAT-146675,KFC,2023-10-05,General Medicine,"copd exacerbation post-diwali smog, tachypnea, needs nebulization",44,F,600,44,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000956,PAT-137281,KFC,2023-10-05,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",50,M,600,50,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000957,PAT-158854,KFC,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",71,M,500,71,Geriatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000958,PAT-107303,KFC,2023-10-05,General Medicine,"platelet count dropping, petechial rash, admitted for monitoring",08/06/1975,M,500,48,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000959,PAT-188680,KFC,2023-10-05,General Medicine,"acute viral fever, suspected dengue with warning signs",71,F,600,71,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000960,PAT-128473,KFC,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",51,F,600,51,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000961,PAT-125374,KFC,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",39,M,500,39,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000962,PAT-179209,KFC,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",23-Aug-1954,M,500,69,Geriatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000963,PAT-100969,KFC,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",24,M,400,24,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000964,PAT-219174,KFC,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",38,F,500,38,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000965,PAT-151936,KFC,2023-10-05,General Medicine,"acute gastritis, severe epigastric pain and heartburn",1950/03/10,M,600,73,Geriatric,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000966,PAT-115051,KFC,2023-10-05,General Medicine,acute gastroenteritis with vomiting and loose stools x 2 days,1977-11-20,F,300,45,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000967,PAT-141930,KFC,2023-10-05,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",31,M,600,31,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000968,PAT-140378,KFC,2023-10-05,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",43,M,300,43,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000969,PAT-102380,KFC,2023-10-05,Pediatrics,"hyperbilirubinemia in 5-day old neonate, phototherapy review",32,F,400,32,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000970,PAT-108118,KFC,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,57,F,300,57,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000971,PAT-110371,KFC,2023-10-05,General Medicine,"fever x 4 days, rash, bleeding gums, platelets 54000",1981/11/16,F,500,41,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000972,PAT-208993,KFC,2023-10-05,Orthopedics,acute lower back pain with right L5-S1 radiculopathy,44,M,600,44,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000973,PAT-207298,KFC,2023-10-05,Internal Medicine,"essential hypertension, BP 168/98 mmHg, medication titration",20,F,400,20,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000974,PAT-128060,KFC,2023-10-05,General Medicine,food poisoning presentation with crampy abdominal pain and diarrhea,37,M,400,37,Adult,Gastrointestinal,2023-10-05,2023-10-02
+OPD-1000975,PAT-174296,KFC,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",48,M,400,48,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000976,PAT-100790,KFC,2023-10-05,Orthopedics,"symptomatic cholelithiasis, elective laparoscopic cholecystectomy consult",22,F,400,22,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000977,PAT-166138,KFC,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,45,M,600,45,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000978,PAT-213283,KFC,2023-10-05,Orthopedics,"abscess right gluteal region, incision and drainage needed",25,M,500,25,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000979,PAT-210609,KFC,2023-10-05,General Medicine,"severe bodyache, chills, suspected vector borne illness / chikungunya",51,M,600,51,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000980,PAT-173880,KFC,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,27,F,400,27,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000981,PAT-177104,KFC,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",2002-03-23,F,300,21,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000982,PAT-145509,KFC,2023-10-05,Internal Medicine,diabetic nephropathy evaluation with microalbuminuria,50,M,400,50,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000983,PAT-161984,KFC,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",11/04/1953,F,500,70,Geriatric,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000984,PAT-100108,KFC,2023-10-05,Pediatrics,pediatric febrile convulsion with acute otitis media,48,F,300,48,Adult,Maternal_Pediatric,2023-10-05,2023-10-02
+OPD-1000985,PAT-124186,KFC,2023-10-05,General Medicine,"viral influenza syndrome with headache, pharyngitis and cough",37,M,500,37,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000986,PAT-115560,KFC,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",27/01/1952,M,300,71,Geriatric,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000987,PAT-157398,KFC,2023-10-05,Internal Medicine,"ischemic heart disease follow-up, mild exertional dyspnea, ECG normal",32,M,400,32,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000988,PAT-205961,KFC,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,45,M,600,45,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000989,PAT-101875,KFC,2023-10-05,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",10,M,500,10,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000990,PAT-137990,KFC,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,17,M,500,17,Pediatric,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000991,PAT-150877,KFC,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",50,M,400,50,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000992,PAT-161264,KFC,2023-10-05,General Medicine,"viral pyrexia with intense arthralgia and rash, NS1 reactive",04/12/2004,F,300,18,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000993,PAT-103689,KFC,2023-10-05,General Medicine,"acute bronchitis, persistent cough with wheeze and low fever",5,M,300,5,Pediatric,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000994,PAT-160549,KFC,2023-10-05,General Medicine,"AGE with moderate dehydration, poor oral intake, needs IV fluids",33,F,600,33,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000995,PAT-175357,KFC,2023-10-05,Internal Medicine,"dyslipidemia review, elevated triglycerides and LDL",48,F,400,48,Adult,Chronic_Cardiometabolic,2023-10-05,2023-10-02
+OPD-1000996,PAT-183002,KFC,2023-10-05,General Medicine,"pediatric bronchiolitis, respiratory distress, subcostal retractions",31,F,500,31,Adult,Acute_Respiratory,2023-10-05,2023-10-02
+OPD-1000997,PAT-139277,KFC,2023-10-05,Orthopedics,"right inguinal hernia reducible, pre-op surgical clearance",25,F,600,25,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1000998,PAT-199500,PMC,2023-10-05,General Medicine,"NS1 antigen positive, thrombocytopenia, severe myalgia",21,M,600,21,Adult,Dengue_Vector,2023-10-05,2023-10-02
+OPD-1000999,PAT-169660,PMC,2023-10-05,Internal Medicine,"chronic heart failure stable, on ACEi and diuretics",22,M,500,22,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
+OPD-1001000,PAT-168333,PMC,2023-10-05,Orthopedics,blunt trauma to right knee after two-wheeler road accident on bypass,20,F,600,20,Adult,General_Trauma_Surgical,2023-10-05,2023-10-02
