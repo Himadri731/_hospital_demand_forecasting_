@@ -79,34 +79,21 @@ hospital_demand_forecasting/
 
 ## 🚀 Quick Start Guide
 
-### 1. Recommended Workspace Configuration
-To make full use of the Antigravity IDE, open this project as your active workspace:
-```powershell
-cd C:\Users\himad\.gemini\antigravity\scratch\hospital_demand_forecasting
-```
+Open the project folder in your IDE, then run these commands from the project root (the folder containing `run_pipeline.py`):
 
-### 2. Run the Full End-to-End Pipeline
-Run the master pipeline script with one command:
 ```powershell
+python -m pip install -r requirements.txt
 python run_pipeline.py
 ```
-This executes:
-1. Data verification and ingestion
-2. Clinical NLP preprocessing and weekly aggregation
-3. Time series decomposition and visual generation
-4. 13-week rolling-origin backtesting and best model selection
-5. 13-week forward forecasting with 80% & 95% prediction intervals
-6. Capacity planning table generation (beds, doctors, nurses, calls)
-7. Hierarchical forecast reconciliation (MinT / OLS)
-8. Scenario stress testing (Dengue shock vs Tariff promotion)
 
-### 3. Open the Interactive Jupyter Notebook
-Launch the notebook in your IDE or browser:
+The pipeline prepares the data, evaluates and selects forecasting models, generates 13-week forecasts, and writes the planning, reconciliation, and scenario outputs.
+
+### Open the notebook
+
+From the same project root, run:
+
 ```powershell
 jupyter notebook hospital_demand_forecasting.ipynb
-```
-
----
 
 ## 🔬 Core Modeling Architectures
 
